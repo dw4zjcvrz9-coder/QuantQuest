@@ -1,6 +1,6 @@
 # AI Assistance Disclosure
 
-QuantQuest was developed with substantial assistance from ChatGPT and Cursor.
+QuantQuest was developed with assistance from ChatGPT and Cursor.
 
 I began the project from my own interest in investing and quantitative strategies, including trading-strategy code I worked on before turning the project into a mobile app. When I moved into areas of development that were new to me, I used AI as both a coding and learning tool.
 
