@@ -1,0 +1,26 @@
+{
+  "expo": {
+    "name": "QuantQuest",
+    "slug": "quantquest",
+    "version": "1.1.0",
+    "scheme": "quantquest",
+    "orientation": "portrait",
+    "userInterfaceStyle": "dark",
+    "icon": "./assets/icon.png",
+    "ios": {
+      "supportsTablet": false,
+      "bundleIdentifier": "com.quantquest.app",
+      "buildNumber": "1",
+      "infoPlist": {
+        "ITSAppUsesNonExemptEncryption": false
+      }
+    },
+    "plugins": [
+      "expo-asset",
+      "expo-font"
+    ],
+    "extra": {
+      "marketDataApiUrl": "https://YOUR-SERVER.example.com"
+    }
+  }
+}

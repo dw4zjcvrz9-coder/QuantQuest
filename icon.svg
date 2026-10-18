@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1024" height="1024" viewBox="0 0 1024 1024">
+  <rect width="1024" height="1024" rx="220" fill="#07110F"/>
+  <circle cx="512" cy="512" r="330" fill="#10201C" stroke="#82F6C7" stroke-width="34"/>
+  <path d="M330 600V450l120 105 120-220 124 120" fill="none" stroke="#82F6C7" stroke-width="56" stroke-linecap="round" stroke-linejoin="round"/>
+  <circle cx="694" cy="455" r="34" fill="#FFB85C"/>
+  <text x="512" y="755" text-anchor="middle" font-family="Arial, sans-serif" font-size="112" font-weight="900" fill="#F3FBF8">QQ</text>
+</svg>
